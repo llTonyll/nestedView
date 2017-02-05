@@ -1,8 +1,8 @@
 {
-  "name": "nested_cv",
+  "name": "nestedView",
   "version": "1.0.0",
-  "description": "Angular Nested Views CV with Ui Router",
-  "main": "cv-app.js",
+  "description": "Angular Nested Views with Ui Router",
+  "main": "nw-app.js",
   "scripts": {
     "start": "NODE_ENV=production node test-app",
     "dev": "brunch watch --server"
@@ -32,12 +32,12 @@
 },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krm22/Nested_CV.git"
+    "url": "git+https://github.com/llTonyll/nestedView.git"
   },
   "author": "Karl Mouat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krm22/Nested_CV/issues"
+    "url": "https://github.com/llTonyll/nestedView/issues"
   },
-  "homepage": "https://github.com/krm22/Nested_CV#readme"
+  "homepage": "https://github.com/llTonyll/nestedView#readme"
 }
